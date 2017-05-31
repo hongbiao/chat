@@ -1,0 +1,22 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "basic chat",
+  "main": "chat-frontend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongbiao/chat.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hongbiao/chat/issues"
+  },
+  "homepage": "https://github.com/hongbiao/chat#readme",
+  "dependencies": {
+    "websocket": "^1.0.24"
+  }
+}
